@@ -8,7 +8,7 @@ This project implements a Collaborative Multi-Agent System that automates resear
 The agents communicate with each other and are orchestrated by a ChatGPT-4o model, which manages the interaction. This system was built using LangChain for agent integration and LangGraph for structured workflows.
 
 ## Introduction
-The Collaborative Multi-Agent System is designed to automate tasks that require both research and data visualization. The system leverages the Tavily search tool to gather web data and the PythonREPL tool to generate Python-based charts from the data. The agents are orchestrated by a large language model (ChatGPT 4.0), allowing them to work in tandem. The system is built using LangChain and LangGraph, providing a scalable and modular framework for multi-agent communication and task execution.
+The Collaborative Multi-Agent System is designed to automate tasks that require both research and data visualization. The system leverages the Tavily search tool to gather web data and the PythonREPL tool to generate Python-based charts from the data. The agents are orchestrated by ChatGPT 4o Model, allowing them to work collaboratively. The system is built using LangChain and LangGraph, providing a scalable and modular framework for multi-agent communication and task execution.
 
 ## System Architecture
 1. **Researcher Agent**: Uses Tavily search to gather information from the web based on user queries.
