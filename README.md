@@ -20,7 +20,7 @@ The Collaborative Multi-Agent System is designed to automate tasks that require 
 1. The user asks a question requiring data research and visualization.
 2. The Researcher Agent uses Tavily search to collect data from the web.
 3. The data is passed to the Chart Agent, which processes it and generates a visualization using PythonREPL.
-4. The above processes are done iteratively and then system returns the final answer along with the visualization to the user.
+4. The above processes are done iteratively and then system returns the final version of the visualization to the user.
 
 ## Installation
 To run this project, you will need Python 3.x installed along with the following libraries:
