@@ -1,4 +1,4 @@
-# Collaborative Multi-Agent System using Tavily Search, PythonREPL, and LangChain
+# Collaborative Multi-Agent System using LangChain & LangGraph
 
 ## Project Overview
 This project implements a Collaborative Multi-Agent System that automates research and data visualization tasks by creating a team of agents. The system consists of two main agents: 
